@@ -1,0 +1,13 @@
+RewriteEngine ON
+
+RewriteRule ^play detail-movie.php
+RewriteRule ^episode episode-movie.php
+RewriteRule ^batch batch-movie.php
+RewriteRule ^anime-list anime-list.php
+RewriteRule ^jadwal-rilis jadwal-rilis.php
+RewriteRule ^ongoing-anime ongoing-anime.php
+RewriteRule ^ongoing-anime/page ongoing-anime.php/page
+RewriteRule ^genre-list genre-list.php
+RewriteRule ^genres genres.php
+RewriteRule ^lengkap lengkap.php
+RewriteRule ^search search.php
